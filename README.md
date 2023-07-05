@@ -1,5 +1,4 @@
-- // Oi, meu nome é Carlos e eu tenho 21 anos!
-- // Atualmente estou estudando Ciência da Computação na PUC-SP
+- // Meu nome é Carlos Gouveia, e eu sou um estudante da Pontifícia Universidade Católica, bacharelando em Ciência da Computação, e cursando tecnólogo em Análise e Desenvolvimento de Sistemas e Design Gráfico. Além da minha paixão pela área de tecnologia, também tenho um afeto por Ciências Sociais, História e Letras! Pretendo trabalhar como Desenvolvedor Full-Stack e atualmente procuro estágio na área.
 
 <br>
 
