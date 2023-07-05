@@ -25,12 +25,12 @@
   <h3 align="center">Onde me Encontrar:</h3>
  <p align="center">
   
-   <a href="https://www.linkedin.com/in/itdobelonely/" target="blank">
-     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tislonely" height="30" width="40" />
+   <a href="https://www.linkedin.com/in/carloslnly/" target="blank">
+     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carloslnly" height="30" width="40" />
    </a>
   
-   <a href="https://www.instagram.com/itdobelonely" target="blank">
-     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tislonely" height="30" width="40" />
+   <a href="https://www.instagram.com/carlos_lnly" target="blank">
+     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="carlos_lnly" height="30" width="40" />
    </a>
 
   </p>
